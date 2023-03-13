@@ -155,7 +155,5 @@ namespace SummatorOfNumbersNUNitSeleniumTests
             Assert.IsEmpty(calculateText);
 
         }
-
-
     }
 }
