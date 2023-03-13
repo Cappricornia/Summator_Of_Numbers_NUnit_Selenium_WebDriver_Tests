@@ -38,7 +38,7 @@ namespace SummatorOfNumbersNUNitSeleniumTests
             var selectElement = new SelectElement(operation);
 
 
-            // TESTING DROP DOWN MENU
+            // TESTING DROPDOWN MENU
 
             //select by value 
             //selectElement.SelectByValue("+");
